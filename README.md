@@ -1,2 +1,11 @@
-# Fushaale_Miriam_CampusB_Lab1
-assigment
+# FUASHAALE GHUMUE DUFE MIRIAM   
+("C:\Users\HP\Pictures\20251127_065918.jpg")  
+EMAIL: fuashaalemiriam05@gmail.com  
+Phone: 653809330  
+Address: simbock yaounde  
+Region: northwest 
+# my personal information  
+### My name a Fuashaale an aspiring software engineering level student from YIBs passionate about web designing and UI/UX design hoping with hardwork and perseverence to excell successfull and impact the world positively.  
+# My educational journey  
+### My journey so far in the university has really been tough though its just the begining of my first year but getting into my field of studies has really been fraustrating just imagining the number courses, number of assignments 
+
