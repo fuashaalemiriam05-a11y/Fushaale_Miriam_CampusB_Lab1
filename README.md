@@ -1,5 +1,5 @@
 # FUASHAALE GHUMUE DUFE MIRIAM   
-("C:\Users\HP\Pictures\20251127_065918.jpg")  
+[![My profile image](https://github.com/fuashaalemiriam05-a11y/Fushaale_Miriam_CampusB_Lab1/blob/main/IMG-20251214-WA0104.jpg))  
 EMAIL: fuashaalemiriam05@gmail.com  
 Phone: 653809330  
 Address: simbock yaounde  
