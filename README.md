@@ -10,6 +10,7 @@ Region: northwest
 ### My journey so far in the university has really been tough, though its just the begining of my first year but getting into my field of studies has really been fraustrating just imagining the number courses, number of assignments, the workload not knowing what to do, how to start or which to attend to but still im working so hard to better making sure i seek help from lecturers and other students who know better than me and gradually its going smoothly.  
 # My personal experience  
 ### As a software engineering student my personal experience is learning and exploring programming languages, learning and knowing more about UI/UX designing.  
-[revision](https://github.com/fuashaalemiriam05-a11y/group-.git)
+[revision](https://github.com/fuashaalemiriam05-a11y/group-.git)  
+[software assignment](https://github.com/fuashaalemiriam05-a11y/Mylab1.git)
 
 
